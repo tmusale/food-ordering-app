@@ -1,0 +1,79 @@
+{
+  "id": "202836",
+  "name": "Hangout Cakes & More",
+  "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/25/28e57ec9-0fef-4a97-96d6-fa0c450a3f3f_202836.jpg",
+  "locality": "CST Road",
+  "areaName": "Santacruz East",
+  "costForTwo": "₹150 for two",
+  "cuisines": ["Bakery"],
+  "avgRating": 4.5,
+  "veg": true,
+  "parentId": "4508",
+  "avgRatingString": "4.5",
+  "totalRatingsString": "2.9K+",
+  "sla": {
+    "deliveryTime": 26,
+    "lastMileTravel": 2.4,
+    "serviceability": "SERVICEABLE",
+    "slaString": "25-30 mins",
+    "lastMileTravelString": "2.4 km",
+    "iconType": "ICON_TYPE_EMPTY"
+  },
+  "availability": {
+    "nextCloseTime": "2024-10-12 23:59:00",
+    "opened": true
+  },
+  "badges": {
+    "imageBadges": [
+      {
+        "imageId": "v1695133679/badges/Pure_Veg111.png",
+        "description": "pureveg"
+      }
+    ]
+  },
+  "isOpen": true,
+  "type": "F",
+  "badgesV2": {
+    "entityBadges": {
+      "imageBased": {
+        "badgeObject": [
+          {
+            "attributes": {
+              "description": "pureveg",
+              "imageId": "v1695133679/badges/Pure_Veg111.png"
+            }
+          }
+        ]
+      },
+      "textBased": {},
+      "textExtendedBadges": {}
+    }
+  },
+  "aggregatedDiscountInfoV3": {
+    "header": "ITEMS",
+    "subHeader": "AT ₹45"
+  },
+  "orderabilityCommunication": {
+    "title": {},
+    "subTitle": {},
+    "message": {},
+    "customIcon": {}
+  },
+  "differentiatedUi": {
+    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+    "differentiatedUiMediaDetails": {
+      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+      "lottie": {},
+      "video": {}
+    }
+  },
+  "reviewsSummary": {},
+  "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+  "restaurantOfferPresentationInfo": {},
+  "externalRatings": {
+    "aggregatedRating": {
+      "rating": "--"
+    }
+  },
+  "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+}
